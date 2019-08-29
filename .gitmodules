@@ -1,3 +1,6 @@
 [submodule "Angular-frontend"]
 	path = Angular-frontend
 	url = https://github.com/shenyongo/Angular-frontend.git
+[submodule "Prototype-Portfolio-Website-backend"]
+	path = Prototype-Portfolio-Website-backend
+	url = https://github.com/shenyongo/Prototype-Portfolio-Website-backend.git
